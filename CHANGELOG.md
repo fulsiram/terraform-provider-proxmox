@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.70.1](https://github.com/bpg/terraform-provider-proxmox/compare/v0.70.0...v0.70.1) (2025-01-23)
+
+
+### Miscellaneous
+
+* **deps:** update module github.com/hashicorp/terraform-plugin-go (v0.25.0 → v0.26.0) ([#1726](https://github.com/bpg/terraform-provider-proxmox/issues/1726)) ([198f0ad](https://github.com/bpg/terraform-provider-proxmox/commit/198f0ad337c914a93bc81c543a4b665aaf2255eb))
+* **docs:** update terraform proxmox (0.69.1 → 0.70.0) ([#1717](https://github.com/bpg/terraform-provider-proxmox/issues/1717)) ([56f81cc](https://github.com/bpg/terraform-provider-proxmox/commit/56f81ccac39242b86cf55aba7724aa6c98a990a5))
+* **testacc:** update apt repository acceptance tests ([#1725](https://github.com/bpg/terraform-provider-proxmox/issues/1725)) ([5e7e799](https://github.com/bpg/terraform-provider-proxmox/commit/5e7e7994d5ca5be7a2cd40bccad4b18425a00cd1))
+
 ## [0.70.0](https://github.com/bpg/terraform-provider-proxmox/compare/v0.69.1...v0.70.0) (2025-01-18)
 
 
